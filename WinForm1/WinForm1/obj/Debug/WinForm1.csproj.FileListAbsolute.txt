@@ -1,0 +1,9 @@
+E:\LuuDuLieuSinhVien\2001190441_HuynhHoangChuong\WinForm1\WinForm1\bin\Debug\WinForm1.exe.config
+E:\LuuDuLieuSinhVien\2001190441_HuynhHoangChuong\WinForm1\WinForm1\bin\Debug\WinForm1.exe
+E:\LuuDuLieuSinhVien\2001190441_HuynhHoangChuong\WinForm1\WinForm1\bin\Debug\WinForm1.pdb
+E:\LuuDuLieuSinhVien\2001190441_HuynhHoangChuong\WinForm1\WinForm1\obj\Debug\WinForm1.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\2001190441_HuynhHoangChuong\WinForm1\WinForm1\obj\Debug\WinForm1.frmBaiTap1.resources
+E:\LuuDuLieuSinhVien\2001190441_HuynhHoangChuong\WinForm1\WinForm1\obj\Debug\WinForm1.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\2001190441_HuynhHoangChuong\WinForm1\WinForm1\obj\Debug\WinForm1.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\2001190441_HuynhHoangChuong\WinForm1\WinForm1\obj\Debug\WinForm1.exe
+E:\LuuDuLieuSinhVien\2001190441_HuynhHoangChuong\WinForm1\WinForm1\obj\Debug\WinForm1.pdb
